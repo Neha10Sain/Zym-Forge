@@ -1,0 +1,6 @@
+{
+  "name": "FORGE FITNESS — Elite Strength & Conditioning",
+  "description": "Premium modern gym website for FORGE FITNESS featuring Olympic strength equipment, certified coaching, recovery sanctuaries, and transparent memberships.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
